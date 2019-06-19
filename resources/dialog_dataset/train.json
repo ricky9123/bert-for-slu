@@ -1,0 +1,10 @@
+[
+  {
+    "text": "请帮我打开uc",
+    "domain": "app",
+    "intent": "LAUNCH",
+    "slots": {
+      "name": "uc"
+    }
+  }
+]

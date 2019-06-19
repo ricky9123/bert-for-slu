@@ -1,0 +1,4 @@
+torch
+numpy
+allennlp
+pytorch_pretrained_bert
